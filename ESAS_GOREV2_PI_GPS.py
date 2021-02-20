@@ -11,7 +11,7 @@ import numpy as np
 import RPi.GPIO as GPIO #simulasyonda GPIO yu sil
 from datetime import datetime
 """
-#SIMULASYON
+#SIMULASYONklkll
 import argparse
 parser = argparse.ArgumentParser(description='Commands vehicle using vehicle.simple_goto.')
 parser.add_argument('--connect',
