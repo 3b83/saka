@@ -18,6 +18,7 @@ args = parser.parse_args()
 connection_string = args.connect #connection_string="127.0.0.1:14553"
 sitl = None
 
+#this is a test comment line.
 print('Connecting to vehicle on: %s' % connection_string)
 vehicle = connect(connection_string, wait_ready=True)
 
