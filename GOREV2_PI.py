@@ -20,7 +20,7 @@ direk1 = LocationGlobalRelative(39.8912438, 32.7856815,yukseklik)
 
 kirmizi_baslangic=LocationGlobalRelative(39.8918695, 32.7854374, yukseklik)
 kirmizi_bitis=LocationGlobalRelative(39.8914064, 32.7857700, yukseklik) 
-
+#this is a comment
 def arm_and_takeoff(aTargetAltitude):
     """
     Arms vehicle and fly to aTargetAltitude.
