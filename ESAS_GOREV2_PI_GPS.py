@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+#ghghg
 from __future__ import print_function
 import time
 from dronekit import connect, VehicleMode, LocationGlobalRelative
